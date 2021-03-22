@@ -102,7 +102,7 @@ make_ply_normal_reader(VectorMap normal_map);
 
 /**
   \ingroup PkgPointSetProcessing3IOPly
-
+  
   \brief reads user-selected points properties from a .ply stream (ASCII or binary).
 
   Potential additional point properties and faces are ignored.
